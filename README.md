@@ -5,7 +5,7 @@ Just
 - `cd discord-GPT3-davinci-bot`
 - `touch .env`
 
-and create two variable as;
+and create two variables as;
 ```
 GPT3_TOKEN=
 DISCORD_TOKEN=
