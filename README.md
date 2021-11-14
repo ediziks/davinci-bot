@@ -15,3 +15,4 @@ DISCORD_TOKEN=
 that's all. 
 now just need to run
 - `python3 bot.py`
+- `python3 bot.py &` for detached mode
