@@ -3,7 +3,7 @@
 Just 
 - `git clone https://github.com/ediziks/discord-GPT3-davinci-bot.git`
 - `cd discord-GPT3-davinci-bot`
-- `touch .env`
+- `nano .env`
 
 and create two variables as;
 ```
