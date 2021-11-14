@@ -6,7 +6,7 @@ Just
 - `pip3 install -r requirements.txt`
 - `nano .env`
 
-and create two variables as;
+and create two constants as
 ```
 GPT3_TOKEN=
 DISCORD_TOKEN=
