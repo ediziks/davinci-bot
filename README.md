@@ -3,6 +3,7 @@
 Just 
 - `git clone https://github.com/ediziks/discord-GPT3-davinci-bot.git`
 - `cd discord-GPT3-davinci-bot`
+- `pip3 install -r requirements.txt`
 - `nano .env`
 
 and create two variables as;
