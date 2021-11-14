@@ -1,9 +1,10 @@
 # discord-GPT3-davinci-bot
 discord GPT3 API davinci bot
 
-Just `git clone https://github.com/ediziks/discord-GPT3-davinci-bot.git`
-`cd discord-GPT3-davinci-bot`
-`touch .env`
+Just 
+- `git clone https://github.com/ediziks/discord-GPT3-davinci-bot.git`
+- `cd discord-GPT3-davinci-bot`
+- `touch .env`
 
 and create two variable as;
 ```
@@ -13,4 +14,4 @@ DISCORD_TOKEN=
 
 that's all. 
 now just need to run
-`python3 bot.py`
+- `python3 bot.py`
