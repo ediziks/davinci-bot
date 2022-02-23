@@ -1,6 +1,7 @@
 # discord-GPT3-davinci-bot
 
-Just 
+## Usage
+
 - `git clone https://github.com/ediziks/discord-GPT3-davinci-bot.git`
 - `cd discord-GPT3-davinci-bot`
 - `pip3 install -r requirements.txt`
@@ -13,6 +14,6 @@ DISCORD_TOKEN=
 ```
 
 that's all. 
-now just need to run
+just need to run now
 - `python3 bot.py`
-- `python3 bot.py &` for detached mode
+- `python3 bot.py &` for detached mode to run as a background process
